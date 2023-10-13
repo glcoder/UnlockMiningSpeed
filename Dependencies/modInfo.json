@@ -1,0 +1,7 @@
+{
+  "identifier": "com.glcoder.unlockminingspeed",
+  "displayName": "UnlockMiningSpeed",
+  "assemblies": [
+    "UnlockMiningSpeed.dll"
+  ]
+}
